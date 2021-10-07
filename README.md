@@ -5,3 +5,7 @@ This program uses the keyboard to crack a netflix pin number. This attack takes 
 is blocked behind a pin
 
 Still a work in progress
+
+Requirements:
+1) Python3
+2) keyboard module
