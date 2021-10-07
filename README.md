@@ -8,4 +8,4 @@ Still a work in progress
 
 Requirements:
 1) Python3
-2) keyboard module
+2) import keyboard, argparse
